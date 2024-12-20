@@ -118,4 +118,4 @@ You can change the value or the way it is calculated, or if add or not Poisson n
 
 Contact me if you have questions or to give me advice on the code to make it better, simpler or faster.
 
-paolo.cristarellaorestano@studenti.unipg.it
+paolo.cristarellaorestano@pg.infn.it
