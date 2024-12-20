@@ -38,6 +38,7 @@ sim(plot_condition = False, final_plot = False, time = None, flux = None, flux_e
     
     # plot_condition     (boolean)   to show plots at each step of the algorithm.
     # final_plot         (boolean)   to show just the plot of Emmanoulopoulos simulated Light Curve.
+    # fast               (boolean)   make faster simulations without check on nan and without sorting
     # time             (numpy array) time of observations.
     # flux             (numpy array) flux of the source.
     # flux_error       (numpy array) flux uncertainty of the source.
